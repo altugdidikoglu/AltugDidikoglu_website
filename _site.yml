@@ -1,0 +1,19 @@
+name: "Altug Didikoglu"
+output_dir: "docs"
+navbar:
+  title: "Altug Didikoglu"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Papers"
+      href: papers.html
+    - text: "Lab"
+      href: lab.html
+    - text: "News"
+      href: news.html
+    - text: "Projects"
+      href: projects.html
+output:
+  html_document:
+    toc: true
+    toc_depth: 2

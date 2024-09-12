@@ -1,0 +1,125 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 1
+---
+
+# Join Our Sleep and Circadian Sciences Research!
+
+<hr>
+
+Are you passionate about sleep and circadian sciences? If you live in
+Izmir, Turkey, and are curious about your light exposure and sleep
+patterns, we invite you to volunteer in our research. Participate in our
+questionnaires or field studies to contribute to groundbreaking
+discoveries.
+
+**Contact us today to explore these exciting opportunities!**
+
+<br><br>
+
+# Research areas
+
+<hr>
+
+-   **Creating Brighter Homes for All Species**
+
+The project aims to investigate and standardize methods for measuring
+light exposure tailored to different species. By doing so, it seeks to
+regulate and optimize housing conditions for pets, farm animals, and lab
+animals, ensuring their well-being and health.
+
+-   **Ecological Vision: Understanding Animal Vision and the Impact of
+    Light Pollution**
+
+The project aims to investigate the photoreceptor sensitivities and lens
+light transmissions of various species. By understanding these visual
+mechanisms, it seeks to calculate and assess the ecological impact of
+light pollution, ultimately contributing to more effective environmental
+conservation strategies.
+
+-   **Measuring Light Exposure and Sensitivities in Everyday Life**
+
+The project involves developing wearable melanopic lux monitors to
+measure personal light exposure in real-world settings. Additionally, we
+are creating mobile apps to collect data on sleep, behavior, mood, and
+cognitive functions in everyday life. This comprehensive approach allows
+us to investigate the effects of light on various aspects of daily
+living.
+
+-   **Enhancing Health and Aging through Better Sleep**
+
+The project aims to investigate the associations between aging
+trajectories of sleep patterns, circadian rhythms, health, cognition,
+and mood. By understanding these relationships, the project seeks to
+develop targeted interventions that promote healthier aging.
+
+-   **Illuminating Minds: Optimizing Light Exposure in Educational
+    Environments**
+
+The project aims to enhance cognitive performance and improve sleep
+health by optimizing light exposure in educational settings. By
+tailoring lighting conditions, it seeks to create an environment
+conducive to both learning and overall well-being.
+
+-   **Harmonizing Rhythms: Cultural Adaptation in Sleep and Circadian
+    Research**
+
+The project focuses on translating, validating, and adapting surveys and
+methodologies to account for cultural variations, thereby enhancing the
+meta-science and reproducibility of sleep and circadian research. This
+ensures that findings are robust and applicable across diverse cultural
+contexts.
+
+<br><br>
+
+# Collaborations
+
+<hr>
+
+-   MeLiDos - A prospective, multi-centric, cross-sectional cohort study
+    to assess personal light exposure; funded by the European
+    Partnership on Metrology, co-financed by the European Union’s
+    Horizon.
+
+-   Timing of eating behavior in older adults; collaboration with Mass
+    General Research Institute, Harvard Medical School.
+
+-   Measuring effects of light on mood in everyday life; collaboration
+    with The University of Manchester, Division of Neuroscience, funded
+    by BBSRC and Signify.
+
+<br><br>
+
+# Open positions
+
+<hr>
+
+Anyone interested in joining the group or collaborating is welcome to
+contact us.
+
+<br><br>
+
+# Grants
+
+<hr>
+
+-   **IzTech-AUDP (2024-2026):** Development of a multi-spectrum display
+    for home-based light testing and therapies
+
+-   **TUBITAK-1002 (2024-2025):** Measurement of Light Exposure in Daily
+    Life Using Wearable Light Loggers
+
+-   **The University of Manchester Research Collaboration Fund
+    (2022-2023):** Measuring Effects of Light Exposure on Activity,
+    Sleep and Human Performance
+
+-   **UKRI BBSRC - ICURe Lean Launch Programme (2022):** Animal-centric
+    approach to measuring light intensity
+
+<br><br>
