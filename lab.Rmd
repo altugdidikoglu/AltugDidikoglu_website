@@ -9,7 +9,7 @@ output:
     toc_depth: 2
 ---
 
-![](img/logo.jpg)
+![](img/logo.png)
 <br> <br> <br>
 
 # What we do
